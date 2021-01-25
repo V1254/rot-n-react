@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rot-n-react/static/css/main.ab713359.chunk.css",
+    "main.js": "/rot-n-react/static/js/main.b06c1a52.chunk.js",
+    "main.js.map": "/rot-n-react/static/js/main.b06c1a52.chunk.js.map",
+    "runtime-main.js": "/rot-n-react/static/js/runtime-main.978bde3c.js",
+    "runtime-main.js.map": "/rot-n-react/static/js/runtime-main.978bde3c.js.map",
+    "static/js/2.89943cf4.chunk.js": "/rot-n-react/static/js/2.89943cf4.chunk.js",
+    "static/js/2.89943cf4.chunk.js.map": "/rot-n-react/static/js/2.89943cf4.chunk.js.map",
+    "index.html": "/rot-n-react/index.html",
+    "static/css/main.ab713359.chunk.css.map": "/rot-n-react/static/css/main.ab713359.chunk.css.map",
+    "static/js/2.89943cf4.chunk.js.LICENSE.txt": "/rot-n-react/static/js/2.89943cf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.978bde3c.js",
+    "static/js/2.89943cf4.chunk.js",
+    "static/css/main.ab713359.chunk.css",
+    "static/js/main.b06c1a52.chunk.js"
+  ]
+}
